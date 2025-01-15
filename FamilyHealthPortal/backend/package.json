@@ -1,0 +1,19 @@
+{
+    "name": "family-health-portal-backend",
+    "version": "1.0.0",
+    "description": "Backend for Family Health Portal",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "engines": {
+      "node": ">=14.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
